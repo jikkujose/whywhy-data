@@ -26,17 +26,17 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://jikkujose.in/api/madison/images/icons/192x192.png",
+      "src": "https://jikkujose.in/whywhy-data/accounts/madison/images/icons/192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://jikkujose.in/api/madison/images/icons/150x150.png",
+      "src": "https://jikkujose.in/whywhy-data/accounts/madison/images/icons/150x150.png",
       "sizes": "150x150",
       "type": "image/png"
     },
     {
-      "src": "https://jikkujose.in/api/madison/images/icons/512x512.png",
+      "src": "https://jikkujose.in/whywhy-data/accounts/madison/images/icons/512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -46,31 +46,31 @@
       "tag": "link",
       "rel": "apple-touch-icon",
       "sizes": "180x180",
-      "href": "https://jikkujose.in/api/madison/images/icons/180x180.png"
+      "href": "https://jikkujose.in/whywhy-data/accounts/madison/images/icons/180x180.png"
     },
     {
       "tag": "link",
       "rel": "icon",
       "type": "image/png",
       "sizes": "32x32",
-      "href": "https://jikkujose.in/api/madison/images/icons/32x32.png"
+      "href": "https://jikkujose.in/whywhy-data/accounts/madison/images/icons/32x32.png"
     },
     {
       "tag": "link",
       "rel": "icon",
       "type": "image/png",
       "sizes": "16x16",
-      "href": "https://jikkujose.in/api/madison/images/icons/16x16.png"
+      "href": "https://jikkujose.in/whywhy-data/accounts/madison/images/icons/16x16.png"
     },
     {
       "tag": "link",
       "rel": "manifest",
-      "href": "https://jikkujose.in/api/madison/manifest.json"
+      "href": "https://jikkujose.in/whywhy-data/accounts/madison/manifest.json"
     },
     {
       "tag": "link",
       "rel": "mask-icon",
-      "href": "https://jikkujose.in/api/madison/images/icons/vector.svg",
+      "href": "https://jikkujose.in/whywhy-data/accounts/madison/images/icons/vector.svg",
       "color": "#5bbad5"
     },
     {
@@ -101,7 +101,7 @@
     {
       "tag": "meta",
       "property": "og:image",
-      "content": "https://jikkujose.in/api/madison/images/social_preview.png"
+      "content": "https://jikkujose.in/whywhy-data/accounts/madison/images/social_preview.png"
     }
   ]
 }
