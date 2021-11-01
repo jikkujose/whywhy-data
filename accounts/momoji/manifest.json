@@ -1,0 +1,107 @@
+{
+  "name": "Momoji",
+  "description": "Best Momos in Town",
+  "short_name": "Momoji",
+  "vpa": "josemathews27@okaxis",
+  "default_transaction_note": "Snacks",
+  "links": [
+    {
+      "title": "Location",
+      "sub_title": "Visit us between 10 to 8",
+      "url": "https://goo.gl/maps/RcUFWF8mwttaArCg6"
+    },
+    {
+      "title": "Phone",
+      "sub_title": "Call us anytime!",
+      "url": "tel:+918452808073"
+    },
+    {
+      "title": "Instagram",
+      "sub_title": "Follow us to show some love :)",
+      "url": "https://instagram.com/momoji.tvm"
+    }
+  ],
+  "theme_color": "#D54C32",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://jikkujose.in/api/momoji/images/icons/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jikkujose.in/api/momoji/images/icons/150x150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jikkujose.in/api/momoji/images/icons/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "header_tags": [
+    {
+      "tag": "link",
+      "rel": "apple-touch-icon",
+      "sizes": "180x180",
+      "href": "https://jikkujose.in/api/momoji/images/icons/180x180.png"
+    },
+    {
+      "tag": "link",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "32x32",
+      "href": "https://jikkujose.in/api/momoji/images/icons/32x32.png"
+    },
+    {
+      "tag": "link",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "16x16",
+      "href": "https://jikkujose.in/api/momoji/images/icons/16x16.png"
+    },
+    {
+      "tag": "link",
+      "rel": "manifest",
+      "href": "https://jikkujose.in/api/momoji/manifest.json"
+    },
+    {
+      "tag": "link",
+      "rel": "mask-icon",
+      "href": "https://jikkujose.in/api/momoji/images/icons/vector.svg",
+      "color": "#5bbad5"
+    },
+    {
+      "tag": "meta",
+      "property": "og:title",
+      "content": "Momoji"
+    },
+    {
+      "tag": "meta",
+      "property": "og:site_name",
+      "content": "Momoji"
+    },
+    {
+      "tag": "meta",
+      "property": "og:url",
+      "content": "https://momoji.surge.sh"
+    },
+    {
+      "tag": "meta",
+      "property": "og:description",
+      "content": "Best Momos in Town"
+    },
+    {
+      "tag": "meta",
+      "property": "og:type",
+      "content": "product"
+    },
+    {
+      "tag": "meta",
+      "property": "og:image",
+      "content": "https://jikkujose.in/api/momoji/images/social_preview.png"
+    }
+  ]
+}
