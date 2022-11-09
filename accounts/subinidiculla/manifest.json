@@ -1,0 +1,101 @@
+{
+  "name": "Subin Idiculla",
+  "description": "Director at REA, India",
+  "short_name": "Subin Idiculla",
+  "vpa": "9910516006@upi",
+  "default_transaction_note": "Rent",
+  "links": [
+    {
+      "title": "Location",
+      "sub_title": "2nd Lane, HSR Layout, Bangalore",
+      "url": "https://housing.com"
+    },
+    {
+      "title": "Phone",
+      "sub_title": "Personal Phone",
+      "url": "tel:+919910516006"
+    },
+    {
+      "title": "Property Page",
+      "sub_title": "Property profile page in housing",
+      "url": "https://housing.com"
+    }
+  ],
+  "theme_color": "#000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://jikkujose.in/whywhy-data/accounts/subinidiculla/images/icons/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jikkujose.in/whywhy-data/accounts/subinidiculla/images/icons/150x150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jikkujose.in/whywhy-data/accounts/subinidiculla/images/icons/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "header_tags": [
+    {
+      "tag": "link",
+      "rel": "apple-touch-icon",
+      "sizes": "180x180",
+      "href": "https://jikkujose.in/whywhy-data/accounts/subinidiculla/images/icons/180x180.png"
+    },
+    {
+      "tag": "link",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "32x32",
+      "href": "https://jikkujose.in/whywhy-data/accounts/subinidiculla/images/icons/32x32.png"
+    },
+    {
+      "tag": "link",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "16x16",
+      "href": "https://jikkujose.in/whywhy-data/accounts/subinidiculla/images/icons/16x16.png"
+    },
+    {
+      "tag": "link",
+      "rel": "manifest",
+      "href": "https://jikkujose.in/whywhy-data/accounts/subinidiculla/manifest.json"
+    },
+    {
+      "tag": "meta",
+      "property": "og:title",
+      "content": "subinidiculla"
+    },
+    {
+      "tag": "meta",
+      "property": "og:site_name",
+      "content": "subinidiculla"
+    },
+    {
+      "tag": "meta",
+      "property": "og:url",
+      "content": "https://subinidiculla.surge.sh"
+    },
+    {
+      "tag": "meta",
+      "property": "og:description",
+      "content": "Workspace on Demand"
+    },
+    {
+      "tag": "meta",
+      "property": "og:type",
+      "content": "product"
+    },
+    {
+      "tag": "meta",
+      "property": "og:image",
+      "content": "https://jikkujose.in/whywhy-data/accounts/subinidiculla/images/social_preview.png"
+    }
+  ]
+}
